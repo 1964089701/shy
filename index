@@ -1,1 +1,12 @@
-https://www.bilibili.com/video/BV1Vb4y1m7gr/?spm_id_from=333.337.search-card.all.click&vd_source=2e8747d37345d3d387c71c5f6892bfb2
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一个网页</title>
+</head>
+<body>
+    <h1>欢迎来到我的网站！</h1>
+    <p>这是我用 GitHub Pages 搭建的第一个页面。</p>
+</body>
+</html>
+
